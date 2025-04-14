@@ -72,6 +72,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - Bump `com.azure:azure-core` from 1.54.1 to 1.55.3 ([#17810](https://github.com/opensearch-project/OpenSearch/pull/17810))
 - Bump `org.apache.poi` version from 5.2.5 to 5.4.1 in /plugins/ingest-attachment ([#17887](https://github.com/opensearch-project/OpenSearch/pull/17887))
 - Bump `org.opensearch:protobufs` from 0.2.0 to 0.3.0 ([#17888](https://github.com/opensearch-project/OpenSearch/pull/17888))
+- Bump `com.microsoft.azure:msal4j` from 1.18.0 to 1.20.0 ([#17925](https://github.com/opensearch-project/OpenSearch/pull/17925))
 
 ### Changed
 
